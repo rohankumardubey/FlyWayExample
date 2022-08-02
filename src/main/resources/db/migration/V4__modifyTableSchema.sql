@@ -1,0 +1,1 @@
+ALTER TABLE REGISTRATION_USERS modify number varchar(11);

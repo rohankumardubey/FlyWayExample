@@ -1,0 +1,2 @@
+ALTER TABLE REGISTRATION_USERS
+ADD COLUMN number varchar(20) AFTER last_name;
